@@ -1,0 +1,1 @@
+This project will be a simple reicpie website, demonstarting my abilty to create a project and the whole file tree from the comand line. this project will also demonstrate my abilty to create a simple website using HTML. 
